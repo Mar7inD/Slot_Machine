@@ -1,0 +1,10 @@
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojAssemblyReference.cache
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\Dechata\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
